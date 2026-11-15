@@ -1,4 +1,4 @@
-# Erdongchan Icons Fro QuanX
+# Erdongchan Icons For QuanX
 
 YouTube频道：https://bit.ly/3bshXk6
 
