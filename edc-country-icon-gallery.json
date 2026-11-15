@@ -93,6 +93,10 @@
     {
       "name": "UN",
       "url": "https://raw.githubusercontent.com/Vincent-520/icon/remastered/Policy-Country/UN.png"
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/Vincent-520/icon/remastered/Policy-Country/EU.png"
     }
   ]
 }
